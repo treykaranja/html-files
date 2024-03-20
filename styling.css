@@ -34,8 +34,9 @@
 }
 .info{
     text-align: right;
-    top: 200px;
-    right: 150px;
+    top: 20%;
+    right: 15%;
     position: absolute;
     color: rgb(47, 96, 87);
 }
+
